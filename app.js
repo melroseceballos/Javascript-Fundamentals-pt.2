@@ -104,7 +104,7 @@ Exercise 10:
 // Complete Exercise 10 below...
 
 
-
+const hasSoup = foods.includes("soup");
 console.log('Exercise 10 Result:\n', hasSoup);
 
 /*
