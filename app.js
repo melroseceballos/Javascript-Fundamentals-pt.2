@@ -172,8 +172,7 @@ const numArrays = [
 
 // Complete Exercise 13 below...
 
-
-
+const numList = numArrays.pop();
 console.log('Exercise 13 Result:\n', numList);
 
 /*
