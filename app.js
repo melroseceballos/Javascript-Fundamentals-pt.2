@@ -193,7 +193,8 @@ Exercise 15:
 */
 
 // Complete Exercise 15 below...
-
+/* Do and update commit 02/09
 
 
 console.log('Exercise 15 Result:\n', total);
+*/
