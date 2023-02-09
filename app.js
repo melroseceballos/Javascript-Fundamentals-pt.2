@@ -193,8 +193,12 @@ Exercise 15:
 */
 
 // Complete Exercise 15 below...
-/* Do and update commit 02/09
+let total = 0;
+numArrays.forEach(function (numArr) {
+    numArr.forEach(function (num) {
+        total += num;
+    });
+});
 
 
 console.log('Exercise 15 Result:\n', total);
-*/
