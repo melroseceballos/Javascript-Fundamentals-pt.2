@@ -183,7 +183,7 @@ Exercise 14:
 // Complete Exercise 14 below...
 
 
-
+const num = numArrays [2] [1];
 console.log('Exercise 14 Result:\n', num);
 
 /*
