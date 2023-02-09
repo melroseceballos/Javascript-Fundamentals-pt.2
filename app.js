@@ -136,7 +136,21 @@ Exercise 12:
 
 // Complete Exercise 12 below...
 
+const fizzbuzz = [];
+const fizz = [];
+const buzz = [];
 
+function addNumbers (numbers){
+if (numbers % 3 === 0 && numbers % 5 === 0) {
+fizzbuzz.push(numbers);
+} else if 
+(numbers % 3 === 0) {
+fizz.push(numbers);
+} else if (numbers % 5 === 0){
+buzz.push(numbers);
+}
+}
+nums.forEach(addNumbers);
 
 console.log('Exercise 12 Results:');
 console.log('  fizz:', fizz);
